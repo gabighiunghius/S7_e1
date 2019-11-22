@@ -1,0 +1,6 @@
+C:\Users\Andrei\Desktop\S7e1\Prob 3\bin\Debug\Prob 3.exe.config
+C:\Users\Andrei\Desktop\S7e1\Prob 3\bin\Debug\Prob 3.exe
+C:\Users\Andrei\Desktop\S7e1\Prob 3\bin\Debug\Prob 3.pdb
+C:\Users\Andrei\Desktop\S7e1\Prob 3\obj\Debug\Prob 3.csprojAssemblyReference.cache
+C:\Users\Andrei\Desktop\S7e1\Prob 3\obj\Debug\Prob 3.exe
+C:\Users\Andrei\Desktop\S7e1\Prob 3\obj\Debug\Prob 3.pdb

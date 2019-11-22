@@ -1,0 +1,6 @@
+C:\Users\Andrei\Desktop\S7e1\S7e1\obj\Debug\S7e1.csprojAssemblyReference.cache
+C:\Users\Andrei\Desktop\S7e1\S7e1\bin\Debug\S7e1.exe.config
+C:\Users\Andrei\Desktop\S7e1\S7e1\bin\Debug\S7e1.exe
+C:\Users\Andrei\Desktop\S7e1\S7e1\bin\Debug\S7e1.pdb
+C:\Users\Andrei\Desktop\S7e1\S7e1\obj\Debug\S7e1.exe
+C:\Users\Andrei\Desktop\S7e1\S7e1\obj\Debug\S7e1.pdb
